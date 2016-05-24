@@ -2,11 +2,11 @@
 
 ## Container name
 
-※kong など
+※ kong など
 
 ## Image
 
-米DockerHubのパス
+※ DockerHubのパス
 
 ## Port mappings
 
