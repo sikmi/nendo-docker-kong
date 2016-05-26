@@ -1,10 +1,10 @@
 database: postgres
 postgres:
-  host: "RDS HOST"
+  host: "nendo-kong-stg.ctspwlrkwg4v.ap-northeast-1.rds.amazonaws.com"
   port: 5432
   database: kong
-  user: "RDS USER"
-  password: "RDS PASSWORD"
+  user: konguser
+  password: kongpassword
 nginx: |
   {{user}}
   worker_processes auto;
