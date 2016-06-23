@@ -2,7 +2,7 @@ database: postgres
 postgres:
   host: "<HOST>"
   port: 5432
-  database: kong
+  database: ebdb
   user: <USER>
   password: <PASSWORD>
 nginx: |
