@@ -1,6 +1,6 @@
 database: postgres
 postgres:
-  host: <HOST>
+  host: "<HOST>"
   port: 5432
   database: kong
   user: <USER>
